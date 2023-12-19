@@ -26,8 +26,8 @@ Use len() to find the total words.
 ## PROGRAM:
 ```
 #Program for getting word count from the contents of a file using command line arguments.
-#Developed by: Azeez Ahamad
-#Reg No: 23003977
+#Developed by:JAYADEV PALLINTI
+#Reg No: 212223240058
 
 import sys
 count={}
